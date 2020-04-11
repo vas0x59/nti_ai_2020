@@ -1,4 +1,4 @@
-## nti_ai_2020
+# nti_ai_2020
 
 
 **0xFF** team - the 16th-17th place in private leaderboard \
